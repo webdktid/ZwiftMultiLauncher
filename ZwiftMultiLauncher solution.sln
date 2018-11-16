@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZwiftMultiLauncher", "ZwiftMultiLauncher.csproj", "{1F9CC8CA-84CE-436F-AF76-9E6BCB4665EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F9CC8CA-84CE-436F-AF76-9E6BCB4665EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9CC8CA-84CE-436F-AF76-9E6BCB4665EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9CC8CA-84CE-436F-AF76-9E6BCB4665EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9CC8CA-84CE-436F-AF76-9E6BCB4665EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4348B5A0-AA68-42D7-A0B4-537CA0EA961A}
+	EndGlobalSection
+EndGlobal
