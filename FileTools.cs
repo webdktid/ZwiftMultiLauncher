@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ZwiftMultiLauncher
+namespace ZwiftLauncher
 {
     public class FileTools
     {

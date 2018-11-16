@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Windows.Forms;
 
-namespace ZwiftMultiLauncher
+namespace ZwiftLauncher
 {
     public partial class FormMain : Form
     {

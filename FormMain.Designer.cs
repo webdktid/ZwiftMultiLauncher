@@ -1,4 +1,4 @@
-﻿namespace ZwiftMultiLauncher
+﻿namespace ZwiftLauncher
 {
     partial class FormMain
     {

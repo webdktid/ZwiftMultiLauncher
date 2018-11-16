@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZwiftMultiLauncher", "ZwiftMultiLauncher.csproj", "{1F9CC8CA-84CE-436F-AF76-9E6BCB4665EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZwiftLauncher", "ZwiftLauncher.csproj", "{1F9CC8CA-84CE-436F-AF76-9E6BCB4665EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

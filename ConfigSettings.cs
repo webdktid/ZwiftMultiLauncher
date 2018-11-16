@@ -1,6 +1,6 @@
 ﻿using System.Configuration;
 
-namespace ZwiftMultiLauncher
+namespace ZwiftLauncher
 {
     public class ConfigSettings
     {

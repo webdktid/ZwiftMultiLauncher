@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace ZwiftMultiLauncher
+namespace ZwiftLauncher
 {
     public class ConfigFix
     {
